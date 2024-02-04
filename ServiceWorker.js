@@ -1,9 +1,9 @@
 const cacheName = "CubeIndustry-DragDragDragWire-1.0";
 const contentToCache = [
     "Build/DragDragDragWire.loader.js",
-    "Build/DragDragDragWire.framework.js.br",
-    "Build/DragDragDragWire.data.br",
-    "Build/DragDragDragWire.wasm.br",
+    "Build/DragDragDragWire.framework.js",
+    "Build/DragDragDragWire.data",
+    "Build/DragDragDragWire.wasm",
     "TemplateData/style.css"
 
 ];
